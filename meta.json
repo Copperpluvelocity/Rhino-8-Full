@@ -1,0 +1,23 @@
+{
+  "repo": "rhino-8-full",
+  "product": "Rhino 8 Full",
+  "kind": "cad",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "3d-modeling",
+  "topics": [
+    "rhino-8",
+    "nurbs-modeling",
+    "industrial-design-cad",
+    "rhino-windows",
+    "surface-modeling-tools",
+    "rhino-2026",
+    "how-to-install-rhino",
+    "rhino-desktop-package",
+    "cad-drawing-sets",
+    "rhino-modeling-suite"
+  ],
+  "site": "toolix.me"
+}
